@@ -1,4 +1,4 @@
-# Alya Ghost UiKIT them
+# Alya Ghost UiKIT theme
 
 Take a look at this theme here: http://alya.mobi/
 
